@@ -1,7 +1,7 @@
-#### Hi there! 👋
-### My name is Andrey and I'm studying computer science! 🧑‍💻
+# Hi there! 👋
+## My name is Andrey and I'm studying computer science! 🧑‍💻
 
-** Programming languages, that I'm currently using: **
+__Programming languages, that I'm currently using:__
 ☕ ```Java
 public static void main(String[] args) {
   System.out.println("I'm using Java!");
